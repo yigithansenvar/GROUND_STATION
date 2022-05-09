@@ -1,0 +1,3 @@
+# GROUND_STATION
+MODEL SATELLITE GROUND STATION
+YOUTUBE VIDEO: https://www.youtube.com/watch?v=zbRjaMsk-eg
